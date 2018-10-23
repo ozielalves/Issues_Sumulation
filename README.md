@@ -8,7 +8,7 @@ Esta avaliação simula essa situação. Abaixo estão listados 4 issues que voc
 
 **Seu código deverá estar em um fork, que deve ser informado por email ao final do prazo estipulado.**
 
-## Erro de ordenação (2,0pt) [x]
+## Erro de ordenação (2,0pt) - [X]
 
 O diretório ```sorting``` contém vários arquivos de um módulo de ordenação de textos:
 * ```randomize.py```: aleatoriza a ordem do conteúdo de ```rotulos.txt```, produzindo o arquivo ```rotulos.in```
@@ -20,7 +20,7 @@ O script ```sort.py``` deverá ser corrigido para produzir o arquivo ```rotulos.
 
 *Note que o rótulo Cinema e audiovisual (linha 38) antecede o rótulo Ciência da computação (linha 40).*
 
-## Limpeza de tweets (3,0pt) []
+## Limpeza de tweets (3,0pt) - [X]
 
 O diretório ```tweets``` contém vários arquivos de um módulo de processamento de tweets:
 * ```consume.py```: recebe os tweets e armazena seus conteúdos no arquivo ```tweets.in```
@@ -34,7 +34,7 @@ Para isto, o script deverá capturar apenas os usuários originadores de tweets 
 
 *Note que estes tweets iniciam com a sigla RT, seguido do usuário que o originou.*
 
-## Classificação hierárquica (2,0pt se em arquivo; 3,0pt se gráfica; 4,0pt se interativa) []
+## Classificação hierárquica (2,0pt se em arquivo; 3,0pt se gráfica; 4,0pt se interativa) = [ ]
 
 O diretório ```tree``` contém vários arquivos de um módulo de classificação hierárquica:
 * ```print.py```: imprime o conteúdo de ```dataset.csv```, produzindo o arquivo ```tree.out```
@@ -55,7 +55,7 @@ No momento, o processamento da classificação está produzindo uma saída linea
 
 O script ```print.py``` deverá ser melhorado para permitir a visualização hierárquica da classificação (em arquivo, com interface gráfica ou interativa, a seu critério).
 
-## Triângulo de Pascal []
+## Triângulo de Pascal - [X]
 
 O diretório ```pascal``` contém parte dos arquivos de um módulo de funcionalidades matemáticas:
 * ```recursive.py```: imprime o triângulo de Pascal até o valor de ```C(n,k)```, isto é, o coeficiente binomial de ```n``` e ```k```. Produz o arquivo ```triangle.out```.
